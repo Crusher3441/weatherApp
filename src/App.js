@@ -5,7 +5,7 @@ import Api from './component/WeatherApi.js'
 function App() {
   return (
     <div>
-      <Api/>
+      
       <UI/>
     </div>
   );
